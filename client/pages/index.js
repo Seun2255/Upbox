@@ -8,7 +8,7 @@ import Blocked from "../Components/screens/blocked";
 import { Bars } from "react-loader-spinner";
 import { Context } from "../context";
 
-function Home() {
+function Index() {
   const [view, setView] = useState("home");
   const [loader, setLoader] = useState(false);
   const [connected, setConnected] = useState(false);
@@ -52,4 +52,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Index;
