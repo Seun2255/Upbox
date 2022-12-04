@@ -2,13 +2,13 @@
 
 Upbox is a decentralized file sharing and storage app. It enables people to securely store their files, find new interesting things and share files they upload or find finteresting with their friends.
 
-- ### [ShareTt](https://prime-ads.vercel.app/)
+- ### [Upbox](https://upbox.vercel.app/)
 
 ## Resources
 
-- #### [Upbox Contract](https://mumbai.polygonscan.com/address/0xe64766cFD3b39Ba08Ea8C8900E0411774eE6cD9A)
+- #### [Upbox Contract](https://mumbai.polygonscan.com/address/0x8E76398fbD29D59d12E1588Db060FdbA0F33E7aE)
 
-- #### [Prime Token Contract](https://mumbai.polygonscan.com/address/0x2C3eF3866a4272816d8020ccAe266B36079D3E9B)
+- #### [Prime Token Contract](https://mumbai.polygonscan.com/address/0xfcA111BDd4D801fB62A1985a6D33902bEb9bf25D)
 
 ## What it does
 
